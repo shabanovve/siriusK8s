@@ -1,2 +1,2 @@
 # siriusK8s
-Pet local are nerwork with pet servers
+Home local area network with home servers
